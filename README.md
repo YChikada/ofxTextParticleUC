@@ -11,4 +11,4 @@ ofxGui
 ofxTrueTypeFontUC  
 
 ## Install  
-` git clone https://github.com/YChikada/ofxTextParticleUC `
+` git clone https://github.com/YChikada/ofxTextParticleUC.git `
